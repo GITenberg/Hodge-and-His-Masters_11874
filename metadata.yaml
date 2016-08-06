@@ -1,0 +1,28 @@
+_repo: Hodge-and-His-Masters_11874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: Cover -- Contents.
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- England'
+- !lcsh 'England -- Rural conditions'
+- !lcc 'HD'
+- !lcsh 'Agricultural laborers -- England'
+- GITenberg
+title: Hodge and His Masters
+url: http://www.gutenberg.org/ebooks/11874
